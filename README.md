@@ -1,1 +1,1 @@
-# TimeWizard
+# Time
